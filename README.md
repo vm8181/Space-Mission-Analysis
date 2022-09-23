@@ -18,9 +18,6 @@ All space missions from 1957 to August 2022, including details on the location, 
 - Mathematics
 - Creativity
 
-
-
-
 ## Power BI dashboard
 ![image](https://user-images.githubusercontent.com/92555446/191925353-465f24fd-792a-425d-bbdf-8227ef311598.png)
 
@@ -35,6 +32,12 @@ All space missions from 1957 to August 2022, including details on the location, 
 - Formatting
 - Alignment
 - Transparent pictures
+## Conclusion
+- France has the most successful rate towards space mission. You can observe that USA has launched more rockets than other countries but they have more failure as compare to France and USA.
+- Cosmos-3M(11K65M) is the rocket which is used most of sapce missions and It has retired not active.
+- RVSN USSR is the company mission which maximum 1614 successful missions in their list.
+- Site 31/6, Baikonur Cosmodrome, Kazakhstan is the site where most of the missions have launched in space mission history i.e. 251
+
 ## Lessons Learned
 
 I have explored interesting websites while building this project that helps me in designing the Power BI dashboard.
