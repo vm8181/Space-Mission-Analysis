@@ -33,7 +33,7 @@ All space missions from 1957 to August 2022, including details on the location, 
 - Alignment
 - Transparent pictures
 ## Conclusion
-- France has the most successful rate towards space mission. You can observe that USA has launched more rockets than other countries but they have more failure as compare to France and USA.
+- France has the most successful rate towards space mission. You can observe that USA has launched more rockets than other countries but they have more failure as compare to France and Russia.
 - Cosmos-3M(11K65M) is the rocket which is used most of sapce missions and It has retired not active.
 - RVSN USSR is the company mission which maximum 1614 successful missions in their list.
 - Site 31/6, Baikonur Cosmodrome, Kazakhstan is the site where most of the missions have launched in space mission history i.e. 251
